@@ -6,7 +6,7 @@ while True:
         while True:
             if n % 10 > digit:
                 digit = n % 10
-            if n < 10:
+            if digit == 9 or n < 10:
                 break
             n = n // 10
 
