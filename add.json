@@ -1,0 +1,11 @@
+[
+  {
+    "item_type": "Xerox",
+    "title": "Canon",
+    "model": "136XA",
+    "printer_features": {
+      "printer_type": "laser",
+      "colored": true
+    }
+  }
+]

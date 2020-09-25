@@ -1,0 +1,26 @@
+[
+  {
+    "item_type": "Printer",
+    "title": "Canon",
+    "model": "136XA",
+    "printer_features": {
+      "printer_type": "laser",
+      "colored": true
+    }
+  },
+  {
+    "item_type": "Scanner",
+    "title": "Canon",
+    "model": "715J"
+  },
+  {
+    "item_type": "Scanner",
+    "title": "Philips",
+    "model": "AB100"
+  },
+  {
+    "item_type": "Xerox",
+    "title": "Canon",
+    "model": "136XA"
+  }
+]

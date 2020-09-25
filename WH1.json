@@ -1,0 +1,34 @@
+[
+  {
+    "item_type": "Scanner",
+    "title": "Philips",
+    "model": "AB100",
+    "printer_features": {
+      "printer_type": null,
+      "colored": null
+    }
+  },
+  {
+    "item_type": "Scanner",
+    "title": "Philips",
+    "model": "AB100",
+    "printer_features": {
+      "printer_type": null,
+      "colored": null
+    }
+  },
+  {
+    "item_type": "Printer",
+    "title": "Test",
+    "model": "Test",
+    "printer_features": {
+      "printer_type": "laser",
+      "colored": false
+    }
+  },
+  {
+    "item_type": "Xerox",
+    "title": "Kodak",
+    "model": "45F"
+  }
+]
